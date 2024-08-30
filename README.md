@@ -1,12 +1,16 @@
-# Getting Started with Create React App
+# How to Run App
 
 first you need to get API_KEY and put that in .env file
 
-## Available Scripts
+// get your key from https://rapidapi.com/wirefreethought/api/geodb-cities
+
+## commands need to run
 
 In the project directory, you can run:
 
 ### `npm install`
+
+after that 
 
 ### `npm start`
 
